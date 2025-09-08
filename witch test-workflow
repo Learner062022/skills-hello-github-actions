@@ -1,0 +1,28 @@
+* [33mc4741ba[m[33m ([m[1;31morigin/test-workflow[m[33m)[m docs(readme): add emoji to trigger the workflow
+[31m|[m *   [33m3644323[m[33m ([m[1;35mrefs/stash[m[33m)[m WIP on main: 393beb9 Update to 5 in STEP and README.md
+[31m|[m [32m|[m[33m\[m  
+[31m|[m [32m|[m * [33m3bce7c6[m index on main: 393beb9 Update to 5 in STEP and README.md
+[31m|[m [32m|[m[32m/[m  
+[31m|[m * [33m393beb9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtest-workflow[m[33m)[m Update to 5 in STEP and README.md
+[31m|[m * [33m0b50df0[m Merge pull request #2 from Learner062022/welcome-workflow
+[31m|[m[31m/[m[35m|[m 
+[31m|[m * [33m197d3ed[m[33m ([m[1;31morigin/welcome-workflow[m[33m)[m Update to 4 in STEP and README.md
+[31m|[m *   [33md56b47f[m Merge branch 'welcome-workflow' of https://github.com/Learner062022/skills-hello-github-actions into welcome-workflow
+[31m|[m [36m|[m[1;31m\[m  
+[31m|[m [36m|[m * [33mf025d61[m Update to 3 in STEP and README.md
+[31m|[m * [1;31m|[m [33m90512c0[m chore: add step to workflow file
+[31m|[m [1;31m|[m[1;31m/[m  
+[31m|[m * [33m559236b[m chore: add post welcome comment job running on ubuntu-latest
+[31m|[m * [33mdc41fa6[m Update to 2 in STEP and README.md
+[31m|[m * [33md441437[m chore(workflows): add welcome workflow to post comment on new pull requests
+[31m|[m * [33mb49dc17[m Update to 1 in STEP and README.md
+[31m|[m * [33mc73cb41[m Create an empty commit
+* [1;31m|[m [33m0cdd3e0[m Update to 4 in STEP and README.md
+* [1;31m|[m [33m916a5da[m Update to 3 in STEP and README.md
+* [1;31m|[m [33me9abd6c[m Update to 2 in STEP and README.md
+[1;31m|[m [1;31m|[m * [33m1f80692[m[33m ([m[1;31morigin/dependabot/github_actions/actions/checkout-5[m[33m)[m Bump actions/checkout from 4 to 5
+[1;31m|[m [1;31m|[m[1;31m/[m  
+[1;31m|[m[1;31m/[m[1;31m|[m   
+* [1;31m|[m [33me351442[m Update to 1 in STEP and README.md
+[1;31m|[m[1;31m/[m  
+* [33md9adcbf[m Initial commit
